@@ -1,0 +1,10 @@
+verbose: true
+instrumentation:
+  root: .
+  extensions:
+    - .js
+reporting:
+    print: summary
+    reports:
+        - lcov
+    dir: ./coverage
