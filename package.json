@@ -23,6 +23,7 @@
   "dependencies": {
     "fontkit": "1.7.8",
     "jpeg-js": "^0.3.4",
+    "linebreak": "^0.3.0",
     "pngjs": "^3.4.0"
   },
   "devDependencies": {
