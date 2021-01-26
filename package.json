@@ -1,7 +1,7 @@
 {
   "name": "pclkit",
   "description": "A PCL generation library for Node.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Alexandre Tiertant <a.tiertant@atlantis-software.net>",
   "license": "MIT",
   "main": "./lib/document.js",
