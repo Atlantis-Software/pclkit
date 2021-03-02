@@ -1,7 +1,7 @@
 {
   "name": "pclkit",
   "description": "A PCL generation library for Node.js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Alexandre Tiertant <a.tiertant@atlantis-software.net>",
   "license": "MIT",
   "main": "./lib/document.js",
@@ -21,10 +21,10 @@
     "lint": "eslint ./"
   },
   "dependencies": {
-    "fontkit": "1.7.8",
-    "jpeg-js": "^0.3.4",
-    "linebreak": "^0.3.0",
-    "pngjs": "^3.4.0"
+    "fontkit": "~1.8.1",
+    "jpeg-js": "~0.4.3",
+    "linebreak": "~1.0.2",
+    "pngjs": "~6.0.0"
   },
   "devDependencies": {
     "coveralls": "~3.0.2",
